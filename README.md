@@ -46,6 +46,7 @@ Also, **CORSFilter** has to be added in order to provide required headers for XM
 ## AngularJS project configuration
 
 The application must be public. Also, configure the web origin and the matching redirect URL.
+![Config Cors Keycloack](https://github.com/hosnimed/keycloack-springboot-angular-demo/blob/master/keycloack-cors-config.PNG)
 
 ## Spring Security Context
 
